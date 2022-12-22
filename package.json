@@ -19,7 +19,7 @@
     "firebase": "^6.2.3",
     "helmet": "^3.18.0",
     "http-auth": "^3.2.3",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.24.0",
     "mongoose": "^5.5.8",
     "mssql": "^5.1.0",
